@@ -1,11 +1,10 @@
 ---
 layout: page
-title: amazing menu
+title: Our Menu 🍽️
 permalink: /menu
 nav: true
 ---
 
-# Our Menu 🍽️
 
 At Habesha Delights, we believe in the power of food to bring people together. Our menu is filled with a variety of dishes that cater to all tastes.
 
