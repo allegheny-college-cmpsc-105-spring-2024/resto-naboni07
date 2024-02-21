@@ -14,7 +14,7 @@ From the moment you step through our doors, you'll be transported to the heart o
 
 At Habesha Delights, we believe in the power of food to bring people together. Our dishes are meant to be shared, fostering a sense of community and connection. We source our ingredients from local farmers, ensuring that our food is not only delicious but also sustainable and supportive of our community.
 
-## <span style="color:red">Reviews 🌟</span>
+# Reviews 🌟
 
 > "The Kitfo at Habesha Delights was a revelation. The raw meat was delicious, and the spices were perfectly balanced. Can't wait to come back!" - Foodie123
 
