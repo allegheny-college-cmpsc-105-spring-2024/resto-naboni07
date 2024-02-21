@@ -3,20 +3,36 @@ layout: post
 title: "about"
 ---
 
-- TODO: look at the raw markdown below for examples of making links, bold, colors, quotes, etc.
-- TODO: replace the content of this file with a description of the concept of your restaurant
-  - this markdown file will become the home page of the website automatically, so include
-    information that you think belongs on the home page.
-  - remember, two colleagues will review your site!
-  - use good markdown style
-  - the website formatting is limited to markdown, but
-  [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
-- TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
-  put in this section.
-  - Use Markdown syntax for the quotes.
-  - after the review phase, you can replace this with two real quotes from your fellow
-  food critics.
-- TODO: finish up by removing _all_ unneeded material below line 6.
+
+# Welcome to Habesha Delights! 🇪🇹
+
+Welcome to Habesha Delights, where we bring the rich and diverse flavors of Ethiopia right to your plate. Our restaurant offers a unique dining experience, serving traditional Ethiopian dishes in a warm and friendly environment.
+
+## Our Menu 🍽️
+
+At Habesha Delights, we believe in the power of food to bring people together. Our menu is filled with a variety of dishes that cater to all tastes.
+
+### Doro Wat 🍗
+
+Doro Wat is a spicy chicken stew that is slow-cooked in a blend of robust spices. Served with Injera, a sourdough-risen flatbread, it's a must-try for anyone looking to explore Ethiopian cuisine.
+
+### Kitfo 🥩
+
+Kitfo is a dish for the adventurous eaters. Made from raw minced beef seasoned with mitmita (a chili powder-based spice blend) and niter kibbeh (a clarified butter infused with herbs and spices), Kitfo is a staple of Ethiopian cuisine.
+
+### Yetsom Beyaynetu 🥦
+
+A delightful assortment of vegan dishes served on Injera. It includes lentils, split peas, and various types of vegetable stews and salads.
+
+## Reviews 🌟
+
+> "The Doro Wat at Habesha Delights was a revelation. The chicken was tender, and the spices were perfectly balanced. Can't wait to come back!" - Foodie123
+
+> "As a vegan, I was blown away by the variety and flavors of the Yetsom Beyaynetu. A must-visit for any food lover in town!" - PlantPowered
+
+We look forward to serving you at Habesha Delights!
+
+!logo
 
 ![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
 
