@@ -22,7 +22,7 @@ At Habesha Delights, we believe in the power of food to bring people together. O
 
 We're incredibly grateful for the positive feedback we've received from our customers. It's a joy to share our love of Ethiopian cuisine with you.
 
-## <span style="color:light blue">Join Us Today! 🎉</span>
+## <span style="color:red">Join Us Today! 🎉</span>
 
 Whether you're a longtime fan of Ethiopian food or trying it for the first time, we invite you to join us at Habesha Delights. Experience the warmth of Ethiopian hospitality, the joy of communal eating, and the thrill of discovering new flavors.
 
