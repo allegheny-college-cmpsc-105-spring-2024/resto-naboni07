@@ -11,7 +11,7 @@ Welcome to Habesha Delights, where we bring the rich and diverse flavors of Ethi
 
 From the moment you step through our doors, you'll be transported to the heart of Ethiopia. The aroma of spices fills the air, traditional music plays softly in the background, and our walls are adorned with beautiful Ethiopian art.
 
-## <span style="color:yellow">Our Philosophy 🌍</span>
+## <span style="color:gold">Our Philosophy 🌍</span>
 
 At Habesha Delights, we believe in the power of food to bring people together. Our dishes are meant to be shared, fostering a sense of community and connection. We source our ingredients from local farmers, ensuring that our food is not only delicious but also sustainable and supportive of our community.
 
