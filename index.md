@@ -3,6 +3,7 @@ layout: post
 title: "about"
 ---
 
+![logo](./assets/images/habesha.jpeg){:width="200"}
 
 # <span style="color:green">Welcome to Habesha Delights! 🇪🇹</span>
 
@@ -27,6 +28,3 @@ We're incredibly grateful for the positive feedback we've received from our cust
 Whether you're a longtime fan of Ethiopian food or trying it for the first time, we invite you to join us at Habesha Delights. Experience the warmth of Ethiopian hospitality, the joy of communal eating, and the thrill of discovering new flavors.
 
 We look forward to serving you at Habesha Delights!
-
-
-![logo](./assets/images/habesha.jpeg){:width="200"}
