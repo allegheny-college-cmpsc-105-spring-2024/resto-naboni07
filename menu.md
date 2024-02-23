@@ -1,21 +1,18 @@
 ---
 layout: page
-title: amazing menu
+title: Our Menu 🍽️
 permalink: /menu
 nav: true
 ---
 
-## menu
 
-this is the menu
+At Habesha Delights, we believe in the power of food to bring people together. Our menu is filled with a variety of dishes that cater to all tastes.
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
 
-### menu item 1
+### Kitfo 🥩
 
-#### lettuce
+Kitfo is a dish for the adventurous eaters. Made from raw minced beef seasoned with mitmita (a chili powder-based spice blend) and niter kibbeh (a clarified butter infused with herbs and spices), Kitfo is a staple of Ethiopian cuisine.
 
-- price: $100
+- price: $26.82
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![Kitfo](assets/images/Kitfo.jpg){:width="200"}

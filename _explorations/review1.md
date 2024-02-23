@@ -1,17 +1,13 @@
 ---
 layout: post
-# TODO: update the title inside the quotes to suit your restaurant review needs
-title: "rev 1"
+# : update the title inside the quotes to suit your restaurant review needs
+title: "Review : Villa Borghese"
 permalink: explorations/review1
 nav: true
 ---
 
-Rabbits like lettuce.
+As a food critic and a restaurant owner, I recently had the pleasure of dining at Villa Borghese, an Italian restaurant that prides itself on authenticity. The highlight of my meal was the **Cacio e Pepe**, a traditional Roman pasta dish. Priced at **$24.75 USD**, it was worth every penny. The dish is made with fresh **Pecorino Romano cheese**, imported directly from Italy, ensuring the highest quality and authenticity. The pasta used is **bucatini**, a thick spaghetti-like pasta with a hole running through the center, known for its firm texture and ability to hold sauce. The dish is completed with a generous sprinkle of black pepper and a dollop of butter, creating a simple yet flavorful combination. The balance of flavors was impeccable, with the sharpness of the Pecorino Romano perfectly complemented by the warmth of the black pepper. The bucatini was cooked to al dente perfection, providing a satisfying bite that is so crucial to a good pasta dish. This dish truly satisfied my craving for Italian nostalgia, transporting me back to the cobblestone streets of Rome. The experience was a testament to the culinary prowess of Villa Borghese, and a reminder of the power of simple, high-quality ingredients. I look forward to my next visit.
 
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
+For more details, visit [Villa Borghese](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Orion-Grieco/menu).
+
+

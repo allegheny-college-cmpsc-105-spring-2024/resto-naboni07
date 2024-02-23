@@ -1,17 +1,12 @@
 ---
 layout: post
-# TODO: update the title inside the quotes to suit your restaurant review needs
-title: "rev 2"
+# : update the title inside the quotes to suit your restaurant review needs
+title: "Review: CAFE COKU"
 permalink: explorations/review2
 nav: true
 ---
 
-Lettuce can be grown with hydroponics.
+As a food critic and a restaurant owner, I recently had the pleasure of dining at COKU, a restaurant that prides itself on delivering authentic and high-quality dishes. The highlight of my meal was the **Fish & Chips Combo**, priced at **$111.00 USD**. This dish is a testament to the restaurant’s commitment to quality, featuring fresh **Atlantic cod** imported directly from the North Sea. The cod was cooked to perfection, its flakiness perfectly complemented by the crispiness of the chips made from the highest quality **potatoes**. The dish was served with malt vinegar and tartar sauce, both of which added a tangy kick that balanced out the richness of the fish and chips. The balance of flavors was impeccable, each ingredient shining on its own while also contributing to the overall harmony of the dish. This dish truly satisfied my craving for British nostalgia, reminding me of the comforting, hearty meals that are characteristic of British cuisine. The experience was a testament to the culinary prowess of COKU, and a reminder of the power of simple, high-quality ingredients. I look forward to my next visit.
 
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
+
+For more details, visit [CAFE COKU](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-ManasviBantawa/menu).
