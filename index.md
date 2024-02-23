@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "about"
+title: "ተማሪዎቻችን እንኳን ደህና መጣችሁ!!"
 ---
 
 ![logo](./assets/images/habesha.jpeg){:width="200"}
