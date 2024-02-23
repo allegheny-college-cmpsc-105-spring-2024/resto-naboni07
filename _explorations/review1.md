@@ -1,7 +1,7 @@
 ---
 layout: post
 # : update the title inside the quotes to suit your restaurant review needs
-title: "REview : Villa Borghese"
+title: "Review : Villa Borghese"
 permalink: explorations/review1
 nav: true
 ---
